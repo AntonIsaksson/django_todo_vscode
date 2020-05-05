@@ -26,7 +26,7 @@ SECRET_KEY = 'x)@9$w3sr^*zmk7(cpp@9oi*q#8vlr51=(62)m+p(m1l5+er+k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['simple-django-todo-1994.herokuapp.com']
 
 
 # Application definition
